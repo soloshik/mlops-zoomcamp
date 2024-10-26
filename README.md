@@ -1,1 +1,4 @@
 # mlops-zoomcamp
+
+jupyter notebook
+
