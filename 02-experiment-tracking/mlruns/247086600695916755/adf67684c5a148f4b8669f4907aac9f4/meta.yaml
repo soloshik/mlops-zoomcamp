@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/adf67684c5a148f4b8669f4907aac9f4/artifacts
+end_time: 1730574742724
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: adf67684c5a148f4b8669f4907aac9f4
+run_name: delightful-foal-24
+run_uuid: adf67684c5a148f4b8669f4907aac9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574738037
+status: 3
+tags: []
+user_id: codespace

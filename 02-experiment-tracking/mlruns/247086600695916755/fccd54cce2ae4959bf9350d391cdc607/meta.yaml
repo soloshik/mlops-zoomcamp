@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/fccd54cce2ae4959bf9350d391cdc607/artifacts
+end_time: 1730574605719
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: fccd54cce2ae4959bf9350d391cdc607
+run_name: likeable-swan-42
+run_uuid: fccd54cce2ae4959bf9350d391cdc607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574602788
+status: 3
+tags: []
+user_id: codespace

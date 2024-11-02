@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/7a6dfd7ebe6c4d608ffd729c7e9b211e/artifacts
+end_time: 1730574734197
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 7a6dfd7ebe6c4d608ffd729c7e9b211e
+run_name: skillful-cod-856
+run_uuid: 7a6dfd7ebe6c4d608ffd729c7e9b211e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574731605
+status: 3
+tags: []
+user_id: codespace

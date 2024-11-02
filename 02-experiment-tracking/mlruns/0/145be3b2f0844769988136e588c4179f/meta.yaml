@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/145be3b2f0844769988136e588c4179f/artifacts
+end_time: 1730569634417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145be3b2f0844769988136e588c4179f
+run_name: serious-hog-613
+run_uuid: 145be3b2f0844769988136e588c4179f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730569620311
+status: 3
+tags: []
+user_id: codespace

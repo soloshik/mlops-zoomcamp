@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/c2047bdd082c457ba6f19fd31239e58c/artifacts
+end_time: 1730574159483
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: c2047bdd082c457ba6f19fd31239e58c
+run_name: rambunctious-rat-785
+run_uuid: c2047bdd082c457ba6f19fd31239e58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574159135
+status: 3
+tags: []
+user_id: codespace

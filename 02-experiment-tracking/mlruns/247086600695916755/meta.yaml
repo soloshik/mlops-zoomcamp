@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755
+creation_time: 1730574151682
+experiment_id: '247086600695916755'
+last_update_time: 1730574151682
+lifecycle_stage: active
+name: random-forest-hyperopt

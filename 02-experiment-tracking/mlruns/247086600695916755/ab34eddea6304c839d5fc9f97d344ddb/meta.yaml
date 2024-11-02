@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/ab34eddea6304c839d5fc9f97d344ddb/artifacts
+end_time: 1730574601892
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: ab34eddea6304c839d5fc9f97d344ddb
+run_name: funny-sponge-789
+run_uuid: ab34eddea6304c839d5fc9f97d344ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574599281
+status: 3
+tags: []
+user_id: codespace

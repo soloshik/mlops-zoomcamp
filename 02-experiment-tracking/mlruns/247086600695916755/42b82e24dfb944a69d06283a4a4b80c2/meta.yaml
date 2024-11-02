@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/42b82e24dfb944a69d06283a4a4b80c2/artifacts
+end_time: 1730574596134
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 42b82e24dfb944a69d06283a4a4b80c2
+run_name: bedecked-duck-483
+run_uuid: 42b82e24dfb944a69d06283a4a4b80c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574592038
+status: 3
+tags: []
+user_id: codespace

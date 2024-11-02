@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/fc912bced2f746969448ac898cbc6b92/artifacts
+end_time: 1730574184216
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: fc912bced2f746969448ac898cbc6b92
+run_name: gaudy-ox-197
+run_uuid: fc912bced2f746969448ac898cbc6b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574183353
+status: 3
+tags: []
+user_id: codespace

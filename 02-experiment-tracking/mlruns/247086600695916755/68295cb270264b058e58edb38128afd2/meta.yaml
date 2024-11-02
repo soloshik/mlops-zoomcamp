@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/68295cb270264b058e58edb38128afd2/artifacts
+end_time: 1730574193337
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 68295cb270264b058e58edb38128afd2
+run_name: delightful-sheep-237
+run_uuid: 68295cb270264b058e58edb38128afd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574189239
+status: 3
+tags: []
+user_id: codespace

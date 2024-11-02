@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/26e87282b45e4c9fb429a3a2fd3cd828/artifacts
+end_time: 1730574561865
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 26e87282b45e4c9fb429a3a2fd3cd828
+run_name: painted-gnat-929
+run_uuid: 26e87282b45e4c9fb429a3a2fd3cd828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574554779
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/439036d651d24f08826a65818d82bcde/artifacts
+end_time: 1730574610418
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 439036d651d24f08826a65818d82bcde
+run_name: languid-ram-835
+run_uuid: 439036d651d24f08826a65818d82bcde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574605723
+status: 3
+tags: []
+user_id: codespace

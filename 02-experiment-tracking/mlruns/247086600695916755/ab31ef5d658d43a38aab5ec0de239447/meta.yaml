@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/ab31ef5d658d43a38aab5ec0de239447/artifacts
+end_time: 1730574738033
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: ab31ef5d658d43a38aab5ec0de239447
+run_name: upbeat-owl-525
+run_uuid: ab31ef5d658d43a38aab5ec0de239447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574735081
+status: 3
+tags: []
+user_id: codespace

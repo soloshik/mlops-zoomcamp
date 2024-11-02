@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/5b95f26204274d1fa6dd3174fd3d3a00/artifacts
+end_time: 1730574183348
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 5b95f26204274d1fa6dd3174fd3d3a00
+run_name: magnificent-fish-63
+run_uuid: 5b95f26204274d1fa6dd3174fd3d3a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574175277
+status: 3
+tags: []
+user_id: codespace

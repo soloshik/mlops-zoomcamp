@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/8515fbe83e494dc29e465151ba92b905/artifacts
+end_time: 1730574164788
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 8515fbe83e494dc29e465151ba92b905
+run_name: welcoming-cod-934
+run_uuid: 8515fbe83e494dc29e465151ba92b905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574160005
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/ee0aadaa4f5b4f739ea91be6f0294529/artifacts
+end_time: 1730574728454
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: ee0aadaa4f5b4f739ea91be6f0294529
+run_name: fun-trout-762
+run_uuid: ee0aadaa4f5b4f739ea91be6f0294529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574724361
+status: 3
+tags: []
+user_id: codespace

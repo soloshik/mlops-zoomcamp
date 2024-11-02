@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/d0b1110ba3e0435d874dc44118a1b4c5/artifacts
+end_time: 1730574718484
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: d0b1110ba3e0435d874dc44118a1b4c5
+run_name: grandiose-loon-456
+run_uuid: d0b1110ba3e0435d874dc44118a1b4c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574710415
+status: 3
+tags: []
+user_id: codespace

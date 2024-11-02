@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/a5e175dd20d245d49600fe839ed79b79/artifacts
+end_time: 1730574167157
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: a5e175dd20d245d49600fe839ed79b79
+run_name: bold-flea-255
+run_uuid: a5e175dd20d245d49600fe839ed79b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574164791
+status: 3
+tags: []
+user_id: codespace

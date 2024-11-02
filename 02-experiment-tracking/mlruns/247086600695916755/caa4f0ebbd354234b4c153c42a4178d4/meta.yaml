@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/caa4f0ebbd354234b4c153c42a4178d4/artifacts
+end_time: 1730574731602
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: caa4f0ebbd354234b4c153c42a4178d4
+run_name: gifted-mouse-28
+run_uuid: caa4f0ebbd354234b4c153c42a4178d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574728458
+status: 3
+tags: []
+user_id: codespace

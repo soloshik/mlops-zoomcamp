@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/bf9c34d50e114ab4a967a5066287cc09/artifacts
+end_time: 1730574199040
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: bf9c34d50e114ab4a967a5066287cc09
+run_name: adorable-shad-813
+run_uuid: bf9c34d50e114ab4a967a5066287cc09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574196478
+status: 3
+tags: []
+user_id: codespace

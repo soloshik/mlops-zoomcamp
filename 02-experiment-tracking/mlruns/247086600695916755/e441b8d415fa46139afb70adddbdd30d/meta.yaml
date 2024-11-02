@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/e441b8d415fa46139afb70adddbdd30d/artifacts
+end_time: 1730574160002
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: e441b8d415fa46139afb70adddbdd30d
+run_name: kindly-mule-36
+run_uuid: e441b8d415fa46139afb70adddbdd30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730574159487
+status: 3
+tags: []
+user_id: codespace
