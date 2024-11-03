@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/84db68ce0bd74db49679d735ce6c8532/artifacts
+end_time: 1730575349621
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 84db68ce0bd74db49679d735ce6c8532
+run_name: overjoyed-elk-397
+run_uuid: 84db68ce0bd74db49679d735ce6c8532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730575347242
+status: 3
+tags: []
+user_id: codespace

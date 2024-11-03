@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/d5e21beec97a4f07b7f81a27844eb81a/artifacts
+end_time: 1730639615311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5e21beec97a4f07b7f81a27844eb81a
+run_name: traveling-elk-976
+run_uuid: d5e21beec97a4f07b7f81a27844eb81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730639599255
+status: 3
+tags: []
+user_id: codespace

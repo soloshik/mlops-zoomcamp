@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/247086600695916755/193e3e886f8244c48f255a8562e3f404/artifacts
+end_time: 1730575390109
+entry_point_name: ''
+experiment_id: '247086600695916755'
+lifecycle_stage: active
+run_id: 193e3e886f8244c48f255a8562e3f404
+run_name: luminous-colt-605
+run_uuid: 193e3e886f8244c48f255a8562e3f404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730575334460
+status: 3
+tags: []
+user_id: codespace
