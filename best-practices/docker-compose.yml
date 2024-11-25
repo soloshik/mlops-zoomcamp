@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  localstack:
+    image: localstack/localstack:latest
+    ports:
+      - "4566:4566"      # Edge port
+      - "4572:4572"      # S3 port (deprecated, use 4566)
+    environment:
+      - SERVICES=s3
+      - DEBUG=1
+    volumes:
+      - "./localstack:/var/lib/localstack"
